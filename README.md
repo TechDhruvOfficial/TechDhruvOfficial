@@ -32,7 +32,7 @@ To build high-performance, scalable web applications and contribute to impactful
 ## 📊 GitHub Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=TechDhruvOfficial&show_icons=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=TechDhruvOfficial&show_icons=true&include_all_commits=true&count_private=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&bg_color=0D1117"
   width="100%"
   alt="TechDhruvOfficial GitHub Stats"
 />
