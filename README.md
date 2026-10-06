@@ -31,8 +31,6 @@ To build high-performance, scalable web applications and contribute to impactful
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechDhruvOfficial&show_icons=true&include_all_commits=true&count_private=true)
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=TechDhruvOfficial&theme=default](https://github-readme-stats.vercel.app/api?username=TechDhruvOfficial&show_icons=true&include_all_commits=true&count_private=true)" alt=" GitHub Stats"  width="100%"/>
 
-## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TechDhruvOfficial)
