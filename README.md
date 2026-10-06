@@ -31,4 +31,4 @@ To build high-performance, scalable web applications and contribute to impactful
 
 ## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechDhruvOfficial&radius=16&theme=react&area=true&order=5" width="100%" height="300" alt="activity-graph" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TechDhruvOfficial)](https://github.com/TechDhruvOfficial)
