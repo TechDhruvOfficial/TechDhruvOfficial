@@ -25,16 +25,20 @@ To build high-performance, scalable web applications and contribute to impactful
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechDhruvOfficial&theme=default" alt="GitHub Streak"  width="100%"/>
-
 ## 📊 GitHub Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=TechDhruvOfficial&show_icons=true&include_all_commits=true&count_private=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&bg_color=0D1117"
-  width="100%"
-  alt="TechDhruvOfficial GitHub Stats"
+src="https://streak-stats.demolab.com/?user=TechDhruvOfficial&theme=default&hide_border=true"
+width="100%"
+alt="GitHub Streak"
 />
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=TechDhruvOfficial&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true"
+width="100%"
+alt="GitHub Stats"
+/>
+
+
 
 
